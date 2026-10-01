@@ -14,3 +14,6 @@ print("ad:{}soyasd:{}yash:{}".yash)
 # input -deyisen deyer oturmek funksiyasi
 num1=input("ededi eleve edin")
 print(F"daxil etdiyimiz eded{num1}")
+
+#print()funksiyasi
+#1. +isaresi ile
